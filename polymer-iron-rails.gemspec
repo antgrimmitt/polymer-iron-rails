@@ -5,7 +5,7 @@ require 'polymer-iron-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "polymer-iron-rails"
-  spec.version       = 'ant1'
+  spec.version       = '1.5'
   spec.authors       = ["Alex Chaplinsky"]
   spec.email         = ["alchaplinsky@gmail.com"]
 
